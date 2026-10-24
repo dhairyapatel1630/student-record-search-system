@@ -1,8 +1,13 @@
 # student-record-search-system
+
 Design and Analysis of Algorithms - mini project
+
 Course code 202045601
+
 Programme : B.Tech. Information Technology
+
 semester : V
+
 Enrollment number: 12402080601028
 ## Overview of Student Records Search System
 
